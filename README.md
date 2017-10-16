@@ -113,4 +113,4 @@ refreshView.setLoadMoreEnable(false);
 
 ####[项目源码demo地址，如有帮助请star](https://github.com/zhangtuodd/CustomRefreshView)
 
-[闷骚代码男，码字不易，请抬起你的小手，点个赞呗～]()
+[闷骚代码男，码字不易，请抬起你的小手，点个赞呗～](http://www.jianshu.com/p/1a82cdab2249)
