@@ -12,7 +12,7 @@
 
 1. **项目中添加依赖**
 ```
-    compile 'com.zhangtuo.maven.widget:CustomRefreshView:1.0.0'
+     compile 'com.zt.maven.widget:refreshview:1.0.0'
 ```
 2. **初始化控件**
 可动态代码引入，也可静态xml添加，依个人喜好和实际情况
