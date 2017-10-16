@@ -1,4 +1,4 @@
-package com.example.zhangtuo.customrefreshview;
+package com.example.refreshview;
 
 import android.content.Context;
 import android.util.AttributeSet;

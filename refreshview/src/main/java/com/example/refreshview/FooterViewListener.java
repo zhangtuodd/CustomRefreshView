@@ -1,4 +1,4 @@
-package com.example.zhangtuo.customrefreshview;
+package com.example.refreshview;
 
 
 public interface FooterViewListener {

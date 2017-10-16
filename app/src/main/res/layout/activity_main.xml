@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.example.zhangtuo.customrefreshview.CustomRefreshView
+    <com.example.refreshview.CustomRefreshView
         android:id="@+id/refresh_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
