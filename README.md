@@ -3,6 +3,7 @@
 - 话不多说（无图说个✖️）
 
 ![效果（由于模拟器有点卡顿，但所有效果都展示出来了）.gif](http://upload-images.jianshu.io/upload_images/1933385-dcef4ad943f730ee.gif?imageMogr2/auto-orient/strip)
+（由于模拟器有点卡顿，但所有效果都展示出来了）
 
 - 为了满足大家活多事急找来即用的心态，我先上干货，怎么用？
 
