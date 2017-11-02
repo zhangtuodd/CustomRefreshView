@@ -447,7 +447,9 @@ public class CustomRefreshView extends FrameLayout
         @Override
         public void unregisterAdapterDataObserver(RecyclerView.AdapterDataObserver observer) {
             Log.i("tag", "unregisterAdapterDataObserver--------------");
-            mInnerAdapter.unregisterAdapterDataObserver(observer);
+            if (mInnerAdapter.hasObservers()) {
+                mInnerAdapter.unregisterAdapterDataObserver(observer);
+            }
         }
 
     }
