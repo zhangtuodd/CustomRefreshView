@@ -12,7 +12,7 @@
 
 1. **项目中添加依赖**
 ```
-    compile 'com.zhangtuo.maven.widget:CustomRefreshView:1.0.0'
+     compile 'com.zt.maven.widget:refreshview:1.0.0'
 ```
 2. **初始化控件**
 可动态代码引入，也可静态xml添加，依个人喜好和实际情况
@@ -113,5 +113,6 @@ refreshView.setLoadMoreEnable(false);
 内部实现是通过SwipeRefreshLayout + recyclerView，通过将数据转换到控件内部的包装类WrapperAdapter获取数据进行加载更多的item包装。使用DataObserver来检测数据源的变化，来显示正常数据界面、无网络、无数据界面。
 
 ####[项目源码demo地址，如有帮助请star](https://github.com/zhangtuodd/CustomRefreshView)
+`ps : 由于无网络、无数据界面、还有加载重试机制在真实的情况下不好复现，为了所有情况都展示出来以便大家观看，因此demo中的数据是自己模拟的`
 
 [闷骚代码男，码字不易，请抬起你的小手，点个赞呗～](http://www.jianshu.com/p/1a82cdab2249)
