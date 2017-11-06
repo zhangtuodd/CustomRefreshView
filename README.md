@@ -6,7 +6,9 @@ http://www.jianshu.com/p/1a82cdab2249
 - 最新的库版本为1.0.2(兼容旧版本，旧版本是1.0.0)，完整的库地址：
 `compile'com.zt.maven.widget:refreshview:1.0.2'`
  - 更新说明：
+ 
     1 - 反注册DataObserver时添加判断，避免使用时多次调用产生bug
+    
     2 - 私有化com.android.support:appcompat-v7，避免使用时版本冲突
 
 
